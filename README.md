@@ -3,7 +3,7 @@
   <a href="razin.in" target="_blank">razin.in</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="demo.png" />
+  <img alt="Demo" src="img/demo.png" />
 </div>
 
 <br/>
