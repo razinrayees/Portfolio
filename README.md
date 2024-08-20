@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="razin.in" target="_blank">razin.in</a>
+  <a href="https://razin.in" target="_blank">razin.in</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="img/demo.png" />
